@@ -1,0 +1,13 @@
+seperate login farmers and expert
+
+Create admin page to register experts
+
+farmers onnly see post a question and can see their account information experts
+
+experts see only questions (swipe left or right,, left for removing question and right for accepting question.)
+
+farmers POV
+(post a question, inbox, tas rate conversation, expert credentials, subscribe)
+
+expert POV
+(swipe left right, swipe, subscribe before swipe questions.)
